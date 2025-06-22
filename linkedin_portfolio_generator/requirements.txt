@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+openai
+python-docx
+pdfkit
+python-dotenv 
